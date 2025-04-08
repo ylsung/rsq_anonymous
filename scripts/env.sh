@@ -1,0 +1,2 @@
+export CODEPATH="XXX"
+export CHECKPOINT_PATH="YYY"
